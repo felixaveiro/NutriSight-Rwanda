@@ -41,7 +41,7 @@ export async function GET(request: NextRequest) {
   }
 
   // Calculate price trends
-  const commodities = [...new Set(filteredData.map((item) => item.commodity))]
+  const commodities = Array.from(new Set(filteredData.map((item) => item.commodity)))
   const trends = commodities.map((commodity) => {
     const commodityData = filteredData.filter((item) => item.commodity === commodity)
     const sortedData = commodityData.sort((a, b) => a.date.localeCompare(b.date))
