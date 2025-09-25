@@ -440,10 +440,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer**: Felix Aveiro  
-**Email**: [felix@nutrisight.rw](mailto:felix@nutrisight.rw)  
+**Project Maintainer**: Felix Bikorimana  
+**Portfolio**: [https://rugangazi.netlify.app/](https://rugangazi.netlify.app/)  
+**Email**: [bikofelix2020@gmail.com](mailto:bikofelix2020@gmail.com)  
+**LinkedIn**: [Felix Bikorimana](https://www.linkedin.com/in/felix-bikorimana-1972ba261/)  
 **GitHub**: [@felixaveiro](https://github.com/felixaveiro)  
-**LinkedIn**: [Felix Aveiro](https://linkedin.com/in/felixaveiro)
+**Phone**: +250780941222
 
 ---
 
